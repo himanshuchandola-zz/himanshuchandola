@@ -50,6 +50,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=himanshuchandola&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   &nbsp;&nbsp;&nbsp;
+  <img height="180em" src="![](https://github.com/himanshuchandola/github-stats/blob/master/generated/overview.svg)" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="180em" src="![](https://github.com/himanshuchandola/github-stats/blob/master/generated/languages.svg)" />
 </details>
 
 <details>
