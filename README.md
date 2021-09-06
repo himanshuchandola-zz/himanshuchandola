@@ -1,4 +1,4 @@
-![Banner Image](https://raw.githubusercontent.com/himanshuchandola/himanshuchandola/main/hello_coder_himanshu_readme.gif)
+![Banner Image]("https://github.com/himanshuchandola/himanshuchandola/blob/main/hello_coder_himanshu_readme.gif")
 <h3 align="center">Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm a computer engineering student 👨🏻‍💻 pursuing Masters's in Computer Science 🎓 from Graphic Era Hill University 🏛 who loves to create for the web 🌐.</h3>
 
 <p align="center">
